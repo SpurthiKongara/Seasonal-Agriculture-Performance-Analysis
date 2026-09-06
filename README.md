@@ -137,11 +137,13 @@ Comparison of:
 
 ## **📁 Project Structure**
 
+```text
 Seasonal-Agriculture-Performance-Analysis/
 │
 ├── Seasonal_Agriculture_Performance_Data_Analysis.ipynb
 ├── seasonal_agriculture_performance_dataset.csv
 └── README.md
+```
 
 ## **🚀 How to Run**
 - Clone or download this repository.
