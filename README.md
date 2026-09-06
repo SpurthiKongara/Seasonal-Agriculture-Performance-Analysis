@@ -157,13 +157,3 @@ Project Title: Seasonal Agriculture Performance Analysis
 Domain: Agriculture & Data Analytics
 
 Project Type: Data Analytics
-
-## **📚 Internship / Program**
-
-VOIS – Edunet Foundation Data Analytics Internship
-
-
-### Important
-In GitHub, headings like `## **📌 Project Overview**` will appear **large and bold**, and the `**text**` will appear bold inside the sections.
-
-This is ready to paste into your **`README.md`** file.
